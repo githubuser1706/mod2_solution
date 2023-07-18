@@ -18,3 +18,9 @@ p {
 .row {
     width: 100%;
 }
+
+@media (min-width: 992px) {
+    section {
+        float: left;
+    }
+}
