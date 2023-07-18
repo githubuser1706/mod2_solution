@@ -12,5 +12,9 @@ p {
     height: 200px;
     margin-right: auto;
     margin-left: auto;
-    
+
+}
+
+.row {
+    width: 100%;
 }
