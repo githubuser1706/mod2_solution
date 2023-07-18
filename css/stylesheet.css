@@ -20,7 +20,8 @@ p {
 }
 
 @media (min-width: 992px) {
-    section {
+    .col-lg-4 {
+        width:33%;
         float: left;
     }
 }
